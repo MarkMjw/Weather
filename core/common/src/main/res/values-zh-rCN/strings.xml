@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 预报字符串 -->
+    <string name="wind_from">风向</string>
+    <string name="visibility">能见度</string>
+    <string name="today">今天</string>
+    <string name="uv_index">紫外线指数</string>
+    <string name="sunrise">日出</string>
+    <string name="temperature">温度</string>
+    <string name="humidity">湿度</string>
+    <string name="pressure">气压</string>
+    <string name="pressure_symbol">mbar</string>
+    <string name="wind_direction">风向</string>
+    <string name="five_day_forecast">五日预报</string>
+    <string name="more_details">更多详情</string>
+    <string name="hourly_forecast">每小时预报</string>
+    <string-array name="uv_intensity">
+        <item>低</item>
+        <item>中等</item>
+        <item>高</item>
+        <item>非常高</item>
+        <item>极端</item>
+    </string-array>
+    <string-array name="wind_directions">
+        <item>北</item>
+        <item>东北</item>
+        <item>东</item>
+        <item>东南</item>
+        <item>南</item>
+        <item>西南</item>
+        <item>西</item>
+        <item>西北</item>
+        <item>未知</item>
+    </string-array>
+    <!-- 管理位置字符串 -->
+    <string name="search_and_add_a_location">搜索并添加位置</string>
+    <string name="search">搜索</string>
+    <string name="real_feel">体感温度</string>
+    <!-- 设置字符串 -->
+    <string name="celsius_symbol">°C</string>
+    <string name="fahrenheit_symbol">°F</string>
+    <string name="kilometer_per_hour">千米/小时</string>
+    <string name="meters_per_second">米/秒</string>
+    <string name="miles_per_hour">英里/小时</string>
+    <string name="kilometer_per_hour_symbol">km/h</string>
+    <string name="meters_per_second_symbol">m/s</string>
+    <string name="miles_per_hour_symbol">mph</string>
+    <string name="settings">设置</string>
+    <string name="units">单位</string>
+    <string name="Temperature">温度</string>
+    <string name="wind_speed">风速</string>
+    <string name="about">关于</string>
+    <string name="about_description">一款正在开发中的 🚧天气 App</string>
+    <string name="about_data_source">气象数据来源：Openweathermap.org</string>
+    <!-- 搜索字符串 -->
+    <string name="popular_cities">"热门城市"</string>
+    <string-array name="popular_cities">
+        <item>德黑兰</item>
+        <item>北京</item>
+        <item>香港</item>
+        <item>罗马</item>
+        <item>上海</item>
+        <item>莫斯科</item>
+        <item>洛杉矶</item>
+        <item>芝加哥</item>
+        <item>曼谷</item>
+        <item>首尔</item>
+        <item>吉隆坡</item>
+        <item>纽约</item>
+        <item>慕尼黑</item>
+        <item>波士顿</item>
+        <item>新加坡</item>
+        <item>设拉子</item>
+        <item>柏林</item>
+    </string-array>
+</resources>
