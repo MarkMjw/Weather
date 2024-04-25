@@ -50,7 +50,7 @@
     <string name="Temperature">温度</string>
     <string name="wind_speed">风速</string>
     <string name="about">关于</string>
-    <string name="about_description">一款正在开发中的 🚧天气 App</string>
+    <string name="about_description">一款正在开发中🚧的天气App</string>
     <string name="about_data_source">气象数据来源：Openweathermap.org</string>
     <!-- 搜索字符串 -->
     <string name="popular_cities">"热门城市"</string>
